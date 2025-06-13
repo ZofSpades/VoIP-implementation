@@ -123,4 +123,4 @@ This project is licensed under the terms of the [MIT License](./LICENSE).
 
 ## 🙌 Credits
 
-Developed by [ZofSpades](https://github.com/ZofSpades)
+Developed by [Z of Spades](https://github.com/ZofSpades)
